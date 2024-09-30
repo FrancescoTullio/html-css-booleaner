@@ -10,8 +10,12 @@
     background-position-y: bottom;
 }
 
-.recolor{
+.backlgr{
     color: lightgrey;
+}
+
+.backgr{
+    color:gray;
 }
 
 .autore{
