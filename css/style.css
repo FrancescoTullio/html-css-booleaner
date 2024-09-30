@@ -1,0 +1,13 @@
+.head{
+    background-color: lightskyblue;
+    height: 150px;
+    background-image: url(../img/pattern.png);
+}
+
+.recolor{
+    color: lightgrey;
+}
+
+.autore{
+    color: lightblue;
+}
